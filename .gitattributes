@@ -1,0 +1,3 @@
+*.app/Contents/MacOS/applet binary
+*.app/Contents/Resources/*.icns binary
+*.png binary
